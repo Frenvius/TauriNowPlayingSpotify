@@ -36,5 +36,6 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Tauri Documentation](https://tauri.studio/en/docs/getting-started/intro) - learn about Tauri features and API.
+- [MsnMsgrUiManager](https://github.com/segin/psymp3/wiki/MsnMsgrUiManager) - MsnMsgrUiManager window class documentation.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
