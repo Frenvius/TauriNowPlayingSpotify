@@ -1,6 +1,6 @@
 # Spotify Now Playing to Windows Live Messenger
 
-This project allows you to send "now playing" information from Spotify to Windows Live Messenger. This can be useful if you are using Windows Live Messenger nowaday with [escargot.chat](https://escargot.chat/) and you want to show your friends what you are listening to.
+This is a [Tauri](https://tauri.app/) that project allows you to send "now playing" information from Spotify to Windows Live Messenger with rust. This can be useful if you are using Windows Live Messenger nowadays with [escargot.chat](https://escargot.chat/) and you want to show your friends what you are listening to.
 
 ## Getting Started
 
