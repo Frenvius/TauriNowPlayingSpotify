@@ -30,3 +30,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# IDE folders
+.idea
+.vscode
+
+# Rust build artifacts
+/target/
+Cargo.lock
